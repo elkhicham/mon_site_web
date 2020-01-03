@@ -1,4 +1,6 @@
 *.doc
 *.pdf
+test.*
 tmp/*
+todo.*
 *.xml
